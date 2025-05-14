@@ -22,7 +22,7 @@ The checkout process is a multi-page form that at the end allows you to place an
 The app can be installed by cloning the git repository
 
 ```
-git clone https://github.com/michaelparkadze/angular-ecommerce-app.git folder-name
+git clone https://github.com/blixor/Ecommerce-platfom.git folder-name
 ```
 
 Then cd into both directories and run npm install
